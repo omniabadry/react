@@ -1,0 +1,56 @@
+#form5Design {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0rem;
+}
+
+.buttonSelected5 {
+    border-left: 5px solid #37a000;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #d3d3d3;
+}
+
+#contDiv {
+    padding: 5rem;
+}
+
+.crdhd {
+    width: 100%;
+    text-align: left;
+    padding: 2rem;
+}
+
+#crdLnk {
+    color: #37a000;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#crd {
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+
+#crdtitle {
+    text-align: left;
+}
+
+#startBtn {
+    padding: 1rem 3.7rem;
+    font-size: 1.2rem;
+    border: 1px solid #37a000;
+    color: #37a000;
+}
+
+#uploadBtn {
+    padding: 1rem .5rem;
+    font-size: 1.2rem;
+    background-color: rgb(2, 2, 121);
+    color: white;
+}

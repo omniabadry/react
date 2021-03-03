@@ -1,0 +1,204 @@
+/* .insideLoginWord {
+    color: white;
+    padding-top: 15px;
+    float: left;
+} */
+
+#loginWord {
+    color: #28a745;
+    float: right;
+    padding-top: 15px;
+}
+
+#imgLogo {
+    width: 50%;
+}
+
+#form2Design {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 40px;
+}
+
+#blueForm {
+    padding-bottom: 50px;
+}
+
+#complete {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.Button1 {
+    border: lightgray 1px solid;
+    width: 100%;
+    margin: 0%;
+}
+
+.Button1:hover {
+    background-color: #28a745;
+    color: white;
+    width: 100%;
+}
+
+.Button2 {
+    border: lightgray 1px solid;
+    width: 100%;
+    margin: 0%;
+}
+
+.Button2:hover {
+    background-color: #28a745;
+    color: white;
+    width: 100%;
+}
+
+#CreateButton {
+    width: 40%;
+    background-color: #28a745;
+    color: white;
+    margin-bottom: 60px;
+    font-size: 10px;
+}
+
+#firstDiv {
+    background-color: #1d4354;
+}
+
+.secondDiv {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.lastDiv {
+    background-color: #f9f9f9;
+}
+
+h4 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: #1d4354;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+
+.aInDiv {
+    color: #28a745;
+}
+
+a {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.dropdownbutton {
+    width: 70%;
+    font-size: 20px;
+    padding-bottom: 10px;
+    border: 1px solid lightgray;
+    margin-bottom: 10px;
+}
+
+.paragraph {
+    font-size: 20px;
+    text-align: center;
+}
+
+#inputbox {
+    width: 90%;
+}
+
+.first {
+    /* float: left; */
+    border: lightgray 1px solid;
+    padding: 10px;
+    /* width:15rem; */
+    margin: 0;
+    /* margin-right: 50px; */
+    border-radius: 5px;
+}
+
+.first:hover {
+    border-color: #28a745;
+    /* color: white; */
+}
+
+#firstName {
+    float: left;
+}
+
+#lastName {
+    float: right;
+}
+
+
+/* #icon{
+    float: left;
+    right: 40px;
+}
+#icon2{
+    float: left;
+    left: 40px;
+} */
+
+.pass {
+    clear: both;
+    border: lightgray 1px solid;
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.pass:hover {
+    border-color: #28a745;
+    /* color: white; */
+}
+
+#btn1 {
+    padding-right: 0px;
+}
+
+#btn2 {
+    padding-left: 0px;
+}
+
+#mySelect {
+    border: lightgray 1px solid;
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.mySelect:hover {
+    border-color: #28a745;
+    /* color: white; */
+}
+
+.check {
+    width: 100%;
+    padding-right: 0%;
+}
+
+.check2 {
+    width: 100%;
+    margin-left: 0%;
+    padding: 0%;
+}

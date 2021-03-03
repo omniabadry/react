@@ -1,0 +1,43 @@
+body {
+    background-color: lightgray;
+}
+
+#imgLogo {
+    width: 50%;
+}
+
+#formDesign {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0px;
+    padding-bottom: 1.5rem;
+}
+
+#blueForm {
+    padding-bottom: 50px;
+}
+
+h2 {
+    width: 90%;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#firstDiv {
+    background-color: #1d4354;
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
+.crdhd {
+    width: 100%;
+    text-align: left;
+    padding: 2rem;
+}
+
+#crdnumbr {
+    padding-left: 1.5rem;
+}

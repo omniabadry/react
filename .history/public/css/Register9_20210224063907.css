@@ -1,0 +1,294 @@
+body {
+    background-color: lightgray;
+}
+
+.radius {
+    border-radius: 1rem;
+}
+
+#imgLogo {
+    width: 50%;
+}
+
+#form9Design {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0rem;
+}
+
+#blueForm {
+    padding-bottom: 50px;
+}
+
+h2 {
+    width: 90%;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#firstDiv {
+    background-color: #1d4354;
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
+#iconNav {
+    font-size: 3.5rem;
+    color: lightgray;
+}
+
+footer {
+    background-color: #1d4354;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 1rem;
+}
+
+.linkFooter {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.dropdown {
+    width: 100%;
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+#mySelect {
+    padding: .7rem 1rem;
+    width: 100%;
+    margin: 0;
+    border-radius: .5rem;
+    border-color: lightgray;
+    font-size: 1.5rem;
+}
+
+select option {
+    line-height: 2rem;
+}
+
+.buttons {
+    display: block;
+    border: none;
+    /* border-left: 5px solid #37a000; */
+    border-radius: 0px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.buttonSelected9 {
+    border-left: 5px solid #37a000;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #d3d3d3;
+}
+
+#contDiv {
+    padding: 5rem;
+}
+
+.crdhd {
+    width: 100%;
+    text-align: left;
+    padding: 2rem;
+    font-size: 2rem;
+    border-radius: 20px 20px 0px 0px;
+}
+
+#crdLnk {
+    color: #37a000;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#crd {
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+
+#crdtitle {
+    text-align: left;
+}
+
+.mutepara {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+#backBtn {
+    padding: 1rem 4rem;
+    font-size: 1.5rem;
+    border: 1px solid #37a000;
+    color: #37a000;
+    float: left;
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+}
+
+#nextBtn {
+    padding: 1rem 4rem;
+    font-size: 1.5rem;
+    color: white;
+    float: right;
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+}
+
+label {
+    clear: both;
+    font-size: 1.5rem;
+}
+
+#inputStart {
+    padding: .7rem 1rem;
+    width: 100%;
+    border-radius: .5rem;
+    border-color: lightgray;
+}
+
+.enterpara {
+    font-size: 1.5rem;
+    text-align: right;
+}
+
+.crdfooter {
+    width: 100%;
+    padding-top: 2.5rem;
+}
+
+.form-check {
+    width: 100%;
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    margin: 0px;
+}
+
+#rowDisabled {
+    display: none;
+}
+
+.skillsBtn {
+    background-color: #f2f2f2;
+    color: #55717e;
+    border-radius: 40rem;
+    font-size: 1.5rem;
+    margin-left: .5rem;
+}
+
+.iconBtn {
+    color: #55717e;
+}
+
+.iconHelp {
+    color: #37a000;
+}
+
+.inputInline {
+    display: inline;
+}
+
+.crdsincrd {
+    height: 100%;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 1rem;
+    border: 1px solid #37a000;
+}
+
+.addEdue9 {
+    padding: 1rem 3rem;
+    font-size: 1.5rem;
+    border: 1px solid lightgray;
+    color: #37a000;
+    border-radius: .5rem;
+    background-color: #f3f3f3;
+}
+
+.addEdue:hover {
+    background-color: rgb(245, 244, 244);
+    color: #37a000;
+}
+
+.skipBtn {
+    color: #37a000;
+    font-weight: bold;
+    border: none;
+    background-color: white;
+}
+
+.skipBtn:hover {
+    color: green;
+}
+
+.saveAddMore {
+    border: 1px solid lightgray;
+    border-radius: .5rem;
+    font-size: 1.5rem;
+    padding: .7rem 2rem;
+    margin-right: 1.5rem;
+    font-weight: bold;
+}
+
+.saveAddMore:hover {
+    background-color: rgb(245, 244, 244);
+    color: #37a000;
+}
+
+.cancelBtn {
+    color: #37a000;
+    border-radius: .5rem;
+    font-size: 1.5rem;
+    padding: .7rem 2rem;
+    margin-right: .5rem;
+    font-weight: bold;
+}
+
+.cancelBtn:hover {
+    color: green;
+}
+
+.saveBtn {
+    border: 1px solid lightgray;
+    border-radius: .5rem;
+    font-size: 1.5rem;
+    padding: .7rem 2rem;
+    font-weight: bold;
+}
+
+#myModal {
+    width: 100%;
+}
+
+.dateBtn9 {
+    border: 1px solid lightgray;
+    width: 100%;
+    font-size: 1.5rem;
+    background-color: white;
+}
+
+.modalContainer {
+    margin: 0%;
+    padding: 0%;
+    max-width: 70%;
+    margin: auto;
+}
+
+textarea {
+    width: 100%;
+    padding: 1rem;
+    border-radius: .5rem;
+}

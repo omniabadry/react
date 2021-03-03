@@ -1,0 +1,173 @@
+.insideLoginWord {
+    color: white;
+    padding-top: 15px;
+    float: left;
+}
+
+
+/* #loginWord {
+    color: #37a000;
+    float: right;
+    padding-top: 15px;
+} */
+
+#imgLogo {
+    width: 50%;
+}
+
+#formDesign {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    width: 60%;
+    margin-top: 20px;
+    /*margin-left: 19%;*/
+}
+
+#blueForm {
+    padding-bottom: 50px;
+}
+
+h2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.btns {
+    width: 80%;
+    font-size: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#googleImage {
+    float: left;
+    width: 7%;
+    border-radius: 5px;
+}
+
+#appleIcon {
+    width: 7%;
+}
+
+.separator {
+    font-weight: 300;
+    line-height: .1em;
+    text-align: center;
+    border-bottom: solid 1px #e0e0e0;
+    margin-top: 30px !important;
+    margin-bottom: 30px !important;
+    width: 80%;
+    margin-left: 10%;
+}
+
+span {
+    padding: 0 10px;
+    background-color: white;
+    color: #606060;
+}
+
+#emailField {
+    background-image: url(envelope-solid.svg);
+    background-size: 5%;
+    background-repeat: no-repeat;
+    width: 80%;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-position: 3% 50%;
+    text-align: center;
+    border-color: #37a000;
+    font-size: 20px;
+    /*background-blend-mode: lighten;*/
+}
+
+input {
+    text-align: center;
+}
+
+#EmailButton {
+    background-color: #37a000;
+    color: white;
+    margin-bottom: 60px;
+}
+
+#AppleButton {
+    border-radius: 5px;
+    border: black solid 1px;
+    margin-top: 20px;
+}
+
+#firstDiv {
+    background-color: #1d4354;
+}
+
+.secondDiv {
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: white;
+}
+
+.imgAuto {
+    padding-top: 60px;
+}
+
+.imgEg {
+    padding-top: 20px;
+}
+
+.imgAir {
+    padding-top: 45px;
+}
+
+.imgBissel {
+    padding-top: 20px;
+}
+
+.imgMicro {
+    padding-top: 35px;
+}
+
+.lastDiv {
+    background-color: #f9f9f9;
+}
+
+h4 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#lastMiddleDiv {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.imgLastDiv {
+    border-radius: 50%;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    background-color: #1d4354;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+a {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-top: 10px;
+}

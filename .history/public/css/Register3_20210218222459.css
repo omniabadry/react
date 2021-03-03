@@ -1,0 +1,118 @@
+body {
+    background-color: lightgray;
+}
+
+
+/* #imgLogo {
+    width: 50%;
+} */
+
+
+/* #formDesign {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+     margin-top: 20px; 
+
+padding: 0px;
+
+}
+*/
+
+
+/* #blueForm {
+    padding-bottom: 50px;
+} */
+
+h2 {
+    width: 90%;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+#firstDiv {
+    background-color: #1d4354;
+    padding-left: 12rem;
+    padding-right: 12rem;
+}
+
+#iconNav {
+    font-size: 2rem;
+    color: lightgray;
+}
+
+footer {
+    background-color: #1d4354;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 1rem;
+}
+
+.linkFooter {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-top: 10px;
+}
+
+.dropdown {
+    width: 100%;
+    font-size: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+#mySelect {
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+}
+
+.buttons {
+    display: block;
+    border: none;
+    /* border-left: 5px solid #37a000; */
+    border-radius: 0px;
+    font-size: 20px;
+    background-color: lightgray;
+}
+
+.buttonSelected {
+    border-left: 5px solid #37a000;
+}
+
+#contDiv {
+    padding: 2rem;
+}
+
+.crdimg {
+    width: 100%;
+}
+
+#crdLnk {
+    color: #37a000;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#crd {
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+
+#crdtitle {
+    text-align: left;
+}
+
+#continueBtn {
+    float: right;
+    /* padding: 1rem; */
+    font-size: 1.5rem;
+}

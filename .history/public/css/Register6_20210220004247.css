@@ -1,0 +1,118 @@
+#form6Design {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0rem;
+}
+
+#mySelect6 {
+    padding: .7rem 1rem;
+    width: 100%;
+    margin: 0;
+    border-radius: .5rem;
+    border-color: lightgray;
+    font-size: 1.5rem;
+}
+
+select option {
+    line-height: 2rem;
+}
+
+.buttons6 {
+    display: block;
+    border: none;
+    /* border-left: 5px solid #37a000; */
+    border-radius: 0px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.buttonSelected {
+    border-left: 5px solid #37a000;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#contDiv {
+    padding: 5rem;
+}
+
+.crdhd {
+    width: 100%;
+    text-align: left;
+    padding: 2rem;
+    font-size: 2rem;
+    border-radius: 20px 20px 0px 0px;
+}
+
+#crdLnk {
+    color: #37a000;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#crd {
+    text-align: left;
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+
+#crdtitle {
+    text-align: left;
+}
+
+.mutepara {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+#backBtn {
+    padding: 1rem 4rem;
+    font-size: 1.5rem;
+    border: 1px solid #37a000;
+    color: #37a000;
+    border-radius: .5rem;
+}
+
+#nextBtn {
+    padding: 1rem 4rem;
+    font-size: 1.5rem;
+    color: white;
+    float: right;
+    border-radius: .5rem;
+}
+
+label {
+    font-size: 1.5rem;
+}
+
+#inputStart {
+    padding: .7rem 1rem;
+    width: 100%;
+    border-radius: .5rem;
+    border-color: lightgray;
+}
+
+.enterpara {
+    font-size: 1.5rem;
+    text-align: right;
+}
+
+.crdfooter {
+    width: 100%;
+    padding-top: 2.5rem;
+}
+
+.form-check {
+    width: 100%;
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    margin: 0px;
+}
+
+#rowDisabled {
+    display: none;
+}

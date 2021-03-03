@@ -1,0 +1,147 @@
+#imgLogoLg {
+    width: 50%;
+}
+
+#imgLogoSm {
+    width: 50%;
+    margin-left: 60%;
+}
+
+#formDesign {
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    width: 60%;
+    margin-top: 20px;
+    /* margin-left: 19%;*/
+    border: lightgrey solid 1px;
+}
+
+#blueForm {
+    padding-bottom: 10px;
+}
+
+h2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.btns {
+    width: 65%;
+    font-size: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#googleImage {
+    float: left;
+    width: 7%;
+    border-radius: 5px;
+}
+
+#appleIcon {
+    width: 7%;
+}
+
+.separator {
+    font-weight: 300;
+    line-height: .1em;
+    text-align: center;
+    border-bottom: solid 1px #e0e0e0;
+    margin-top: 10px !important;
+    margin-bottom: 40px !important;
+    width: 65%;
+    margin-left: 17.5%;
+}
+
+.secondSeparator {
+    font-weight: 300;
+    line-height: .1em;
+    text-align: center;
+    border-bottom: solid 1px #8f8e8e;
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+    width: 65%;
+    margin-left: 17.5%;
+}
+
+#firstSpan {
+    padding: 0 10px;
+    background-color: white;
+    color: #606060;
+}
+
+#secondSpan {
+    padding: 0 10px;
+    background-color: white;
+    color: black;
+}
+
+#emailField {
+    background-image: url(user-alt-solid.svg);
+    background-size: 5%;
+    background-repeat: no-repeat;
+    width: 65%;
+    margin-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+    border-radius: 7px;
+    background-position: 3% 50%;
+    text-align: center;
+    border-color: lightgrey;
+    font-size: 20px;
+    /*background-blend-mode: lighten;*/
+}
+
+input {
+    text-align: center;
+}
+
+#EmailButton {
+    background-color: #37a000;
+    color: white;
+    margin-bottom: 30px;
+}
+
+#AppleButton {
+    border-radius: 5px;
+    border: black solid 1px;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+#SignUpButton {
+    border-radius: 5px;
+    border: lightgrey solid 1px;
+    width: 40%;
+    color: #37a000;
+    margin-bottom: 50px;
+}
+
+#firstDiv {
+    background-color: #1d4354;
+}
+
+#secondDiv {
+    background-color: #f1f2f4;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+footer {
+    background-color: #1d4354;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+a {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-top: 10px;
+}
